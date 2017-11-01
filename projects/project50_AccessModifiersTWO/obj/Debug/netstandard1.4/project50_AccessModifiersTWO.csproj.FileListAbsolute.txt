@@ -1,0 +1,3 @@
+c:\users\sharathchandra\documents\visual studio 2017\Projects\project50_AccessModifiers\project50_AccessModifiersTWO\bin\Debug\netstandard1.4\project50_AccessModifiersTWO.deps.json
+c:\users\sharathchandra\documents\visual studio 2017\Projects\project50_AccessModifiers\project50_AccessModifiersTWO\obj\Debug\netstandard1.4\project50_AccessModifiersTWO.csprojResolveAssemblyReference.cache
+c:\users\sharathchandra\documents\visual studio 2017\Projects\project50_AccessModifiers\project50_AccessModifiersTWO\obj\Debug\netstandard1.4\project50_AccessModifiersTWO.AssemblyInfo.cs

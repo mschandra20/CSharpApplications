@@ -1,0 +1,8 @@
+c:\users\sharathchandra\documents\visual studio 2017\Projects\project50_AccessModifiers\project50_AccessModifiers\bin\Debug\netcoreapp1.1\project50_AccessModifiersONE.deps.json
+c:\users\sharathchandra\documents\visual studio 2017\Projects\project50_AccessModifiers\project50_AccessModifiers\bin\Debug\netcoreapp1.1\project50_AccessModifiersONE.runtimeconfig.json
+c:\users\sharathchandra\documents\visual studio 2017\Projects\project50_AccessModifiers\project50_AccessModifiers\bin\Debug\netcoreapp1.1\project50_AccessModifiersONE.runtimeconfig.dev.json
+c:\users\sharathchandra\documents\visual studio 2017\Projects\project50_AccessModifiers\project50_AccessModifiers\bin\Debug\netcoreapp1.1\project50_AccessModifiersONE.dll
+c:\users\sharathchandra\documents\visual studio 2017\Projects\project50_AccessModifiers\project50_AccessModifiers\bin\Debug\netcoreapp1.1\project50_AccessModifiersONE.pdb
+c:\users\sharathchandra\documents\visual studio 2017\Projects\project50_AccessModifiers\project50_AccessModifiers\obj\Debug\netcoreapp1.1\project50_AccessModifiersONE.AssemblyInfo.cs
+c:\users\sharathchandra\documents\visual studio 2017\Projects\project50_AccessModifiers\project50_AccessModifiers\obj\Debug\netcoreapp1.1\project50_AccessModifiersONE.dll
+c:\users\sharathchandra\documents\visual studio 2017\Projects\project50_AccessModifiers\project50_AccessModifiers\obj\Debug\netcoreapp1.1\project50_AccessModifiersONE.pdb
